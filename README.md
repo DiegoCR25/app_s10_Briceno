@@ -10,13 +10,17 @@ Este trabajo fue elaborado como parte de la Semana 10 del curso, con el objetivo
 
 ## 📸 Capturas de pantalla
 
-| 🔐 **Login / Registro** | 👤 **Modo Invitado** |
+| 🔐 **Login** | 👤 **Registro** |
 |--------------------------|----------------------|
-| <img src="PantallazosApp/login.png" width="200"/> | <img src="PantallazosApp/invitado.png" width="200"/> |
+| <img src="PantallazosApp/1login.png" width="200"/> | <img src="PantallazosApp/2registro.png" width="200"/> |
 
-| ✉️ **Verificación / Recuperación** | 🎮 **Dashboard Temático** |
+| ✉️ **Verificación** | 🎮 **Dashboard Temático** |
 |-----------------------------------|----------------------------|
-| <img src="PantallazosApp/verificacion.png" width="200"/> | <img src="PantallazosApp/dashboard.png" width="200"/> |
+| <img src="PantallazosApp/3usuario_registrado.png" width="200"/> | <img src="PantallazosApp/4inicio_sesion.png" width="200"/> |
+
+| ✉️ **Verificación en Firebase** |
+|----------------------------|
+| <img src="PantallazosApp/5usuarios_firebase.png" width="600"/> |
 
 ---
 
